@@ -4,3 +4,6 @@ Palada
 Chicken 65
 Mutton
 Ice cream
+
+Apple Juice
+Grape juice
